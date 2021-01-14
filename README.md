@@ -1,6 +1,6 @@
 # Naive-Bayes-Classifier
 
-###CONTENTS OF THIS FILE
+## CONTENTS OF THIS FILE
 
 * Description
 * Requirements
