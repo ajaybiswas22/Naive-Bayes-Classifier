@@ -70,4 +70,4 @@ To start Jupyter type
 
 # Usage
 
-There jupyter notebook (source code) is present in the 'src' folder. An example containing two gaussian distributions are provided. 
+The jupyter notebook (source code) is present in the 'src' folder. An example containing two gaussian distributions have been provided in the 'main' (inside the code). 
