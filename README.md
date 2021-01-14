@@ -61,12 +61,11 @@ To start Jupyter type
 >jupyter notebook
 
 ### Directory Structure
-
-Project Folder
-|---- src
-|       |---- naive_bayes.ipynb
-|
-|---- README.md
+    .
+    ├── src                     # Source files
+    │   ├── naive_bayes.ipynb   # Jupyter Notebook
+    ├── LICENSE
+    └── README.md
 
 
 # Usage
